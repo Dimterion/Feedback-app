@@ -1,6 +1,6 @@
 # Feedback application
 
-Udemy project to learn React
+Udemy course project to learn React
 
 ## Built with
 
