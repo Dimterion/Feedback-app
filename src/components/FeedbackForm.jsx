@@ -52,6 +52,7 @@ function FeedbackForm() {
 
       setText("");
       setBtnDisabled(true);
+      setRating(10);
     }
   };
 
@@ -59,7 +60,7 @@ function FeedbackForm() {
     <Card>
       <form onSubmit={handleSubmit}>
         <h2>How would you rate the service?</h2>
-        <RatingSelect select={(rating) => setRating(rating)} />
+        <RatingSelect select={setRating} selected={rating} />
         <div className="input-group">
           <input
             onChange={handleTextChange}

@@ -226,5 +226,10 @@ input:focus {
 
   .input-group input {
     width: 80%;
+    font-size: 0.75rem;
+  }
+
+  button.btn.btn-primary {
+    width: 45px;
   }
 }
