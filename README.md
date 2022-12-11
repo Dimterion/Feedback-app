@@ -1,10 +1,10 @@
-# Feedback application
+# Feedback App
 
 Udemy course project to learn React
 
-## Live demo
+## Live Demo
 
-[Feedback app](https://snazzy-marshmallow-35d4a9.netlify.app/)
+[Feedback App](https://snazzy-marshmallow-35d4a9.netlify.app/)
 
 ## Details
 
